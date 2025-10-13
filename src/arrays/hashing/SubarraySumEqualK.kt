@@ -1,8 +1,8 @@
 package arrays.hashing
 
 fun main() {
-    val array = intArrayOf(-1, -1, 1)
-    val target = 0
+    val array = intArrayOf(3, 4, 7, 2, -3, 1, 4)
+    val target = 7
     subarraySumEqualK(array, target)
     print(subarraySumEqualK(array, target))
 }
