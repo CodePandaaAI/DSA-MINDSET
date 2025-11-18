@@ -1,4 +1,7 @@
-package linkedlist.traversal
+package linkedlist.traversal_reversal
+
+import linkedlist.traversal_reversal.linkedlist_datastructure.LinkedList
+import linkedlist.linkedlist_datastructure.Node
 
 fun main() {
     val linkedList = LinkedList<Int>()
